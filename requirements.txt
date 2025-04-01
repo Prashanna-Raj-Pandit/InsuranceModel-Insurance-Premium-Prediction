@@ -5,3 +5,4 @@ tensorflow==2.17.0  # Upgrade to latest stable as of March 2025
 scikit-learn==1.6.1
 pandas==2.2.3
 numpy==1.26.4  # Keep <2 for now, adjust if needed
+gunicorn==23.0.0
